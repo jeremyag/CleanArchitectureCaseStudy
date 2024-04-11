@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CargoShipping.UseCases/1.0.0": {
+        "dependencies": {
+          "CargoShipping.CoreBusiness": "1.0.0"
+        },
+        "runtime": {
+          "CargoShipping.UseCases.dll": {}
+        }
+      },
+      "CargoShipping.CoreBusiness/1.0.0": {
+        "runtime": {
+          "CargoShipping.CoreBusiness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CargoShipping.UseCases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CargoShipping.CoreBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

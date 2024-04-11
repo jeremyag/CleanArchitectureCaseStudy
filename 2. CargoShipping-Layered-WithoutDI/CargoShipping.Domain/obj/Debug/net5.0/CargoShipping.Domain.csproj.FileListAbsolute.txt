@@ -1,0 +1,12 @@
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping-Layered\CargoShipping.Domain\bin\Debug\net5.0\CargoShipping.Domain.deps.json
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping-Layered\CargoShipping.Domain\bin\Debug\net5.0\CargoShipping.Domain.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping-Layered\CargoShipping.Domain\bin\Debug\net5.0\ref\CargoShipping.Domain.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping-Layered\CargoShipping.Domain\bin\Debug\net5.0\CargoShipping.Domain.pdb
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping-Layered\CargoShipping.Domain\obj\Debug\net5.0\CargoShipping.Domain.csprojAssemblyReference.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping-Layered\CargoShipping.Domain\obj\Debug\net5.0\CargoShipping.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping-Layered\CargoShipping.Domain\obj\Debug\net5.0\CargoShipping.Domain.AssemblyInfoInputs.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping-Layered\CargoShipping.Domain\obj\Debug\net5.0\CargoShipping.Domain.AssemblyInfo.cs
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping-Layered\CargoShipping.Domain\obj\Debug\net5.0\CargoShipping.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping-Layered\CargoShipping.Domain\obj\Debug\net5.0\CargoShipping.Domain.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping-Layered\CargoShipping.Domain\obj\Debug\net5.0\ref\CargoShipping.Domain.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping-Layered\CargoShipping.Domain\obj\Debug\net5.0\CargoShipping.Domain.pdb

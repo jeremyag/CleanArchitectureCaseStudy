@@ -1,0 +1,15 @@
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\bin\Debug\netcoreapp3.1\CargoShipping.WinForms.exe
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\bin\Debug\netcoreapp3.1\CargoShipping.WinForms.deps.json
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\bin\Debug\netcoreapp3.1\CargoShipping.WinForms.runtimeconfig.json
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\bin\Debug\netcoreapp3.1\CargoShipping.WinForms.runtimeconfig.dev.json
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\bin\Debug\netcoreapp3.1\CargoShipping.WinForms.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\bin\Debug\netcoreapp3.1\CargoShipping.WinForms.pdb
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\obj\Debug\netcoreapp3.1\CargoShipping.WinForms.csprojAssemblyReference.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\obj\Debug\netcoreapp3.1\CargoShipping.WinForms.frmTrips.resources
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\obj\Debug\netcoreapp3.1\CargoShipping.WinForms.csproj.GenerateResource.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\obj\Debug\netcoreapp3.1\CargoShipping.WinForms.AssemblyInfoInputs.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\obj\Debug\netcoreapp3.1\CargoShipping.WinForms.AssemblyInfo.cs
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\obj\Debug\netcoreapp3.1\CargoShipping.WinForms.csproj.CoreCompileInputs.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\obj\Debug\netcoreapp3.1\CargoShipping.WinForms.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\obj\Debug\netcoreapp3.1\CargoShipping.WinForms.pdb
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\CargoShipping\CargoShipping.WinForms\obj\Debug\netcoreapp3.1\CargoShipping.WinForms.genruntimeconfig.cache

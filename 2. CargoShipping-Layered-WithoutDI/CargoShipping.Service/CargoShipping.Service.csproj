@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CargoShipping.Domain\CargoShipping.Domain.csproj" />
+    <ProjectReference Include="..\CargoShipping.Repository\CargoShipping.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

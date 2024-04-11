@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.WinForms\\CargoShipping.WinForms.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Domain\\CargoShipping.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Domain\\CargoShipping.Domain.csproj",
+        "projectName": "CargoShipping.Domain",
+        "projectPath": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Domain\\CargoShipping.Domain.csproj",
+        "packagesPath": "C:\\Users\\fliu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fliu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Repository\\CargoShipping.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Repository\\CargoShipping.Repository.csproj",
+        "projectName": "CargoShipping.Repository",
+        "projectPath": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Repository\\CargoShipping.Repository.csproj",
+        "packagesPath": "C:\\Users\\fliu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fliu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Domain\\CargoShipping.Domain.csproj": {
+                "projectPath": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Domain\\CargoShipping.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Service\\CargoShipping.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Service\\CargoShipping.Service.csproj",
+        "projectName": "CargoShipping.Service",
+        "projectPath": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Service\\CargoShipping.Service.csproj",
+        "packagesPath": "C:\\Users\\fliu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fliu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Domain\\CargoShipping.Domain.csproj": {
+                "projectPath": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Domain\\CargoShipping.Domain.csproj"
+              },
+              "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Repository\\CargoShipping.Repository.csproj": {
+                "projectPath": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Repository\\CargoShipping.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.WinForms\\CargoShipping.WinForms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.WinForms\\CargoShipping.WinForms.csproj",
+        "projectName": "CargoShipping.WinForms",
+        "projectPath": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.WinForms\\CargoShipping.WinForms.csproj",
+        "packagesPath": "C:\\Users\\fliu\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.WinForms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fliu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Service\\CargoShipping.Service.csproj": {
+                "projectPath": "C:\\Projects\\1-Mine\\3-Learning_Teaching\\Software Architecture\\Code\\2. CargoShipping-Layered-WithoutDI\\CargoShipping.Service\\CargoShipping.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

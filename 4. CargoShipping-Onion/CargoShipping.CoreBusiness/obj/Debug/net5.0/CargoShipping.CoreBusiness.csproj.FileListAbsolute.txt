@@ -1,0 +1,12 @@
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.CoreBusiness\bin\Debug\net5.0\CargoShipping.CoreBusiness.deps.json
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.CoreBusiness\bin\Debug\net5.0\CargoShipping.CoreBusiness.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.CoreBusiness\bin\Debug\net5.0\ref\CargoShipping.CoreBusiness.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.CoreBusiness\bin\Debug\net5.0\CargoShipping.CoreBusiness.pdb
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.CoreBusiness\obj\Debug\net5.0\CargoShipping.CoreBusiness.csprojAssemblyReference.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.CoreBusiness\obj\Debug\net5.0\CargoShipping.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.CoreBusiness\obj\Debug\net5.0\CargoShipping.CoreBusiness.AssemblyInfoInputs.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.CoreBusiness\obj\Debug\net5.0\CargoShipping.CoreBusiness.AssemblyInfo.cs
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.CoreBusiness\obj\Debug\net5.0\CargoShipping.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.CoreBusiness\obj\Debug\net5.0\CargoShipping.CoreBusiness.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.CoreBusiness\obj\Debug\net5.0\ref\CargoShipping.CoreBusiness.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.CoreBusiness\obj\Debug\net5.0\CargoShipping.CoreBusiness.pdb

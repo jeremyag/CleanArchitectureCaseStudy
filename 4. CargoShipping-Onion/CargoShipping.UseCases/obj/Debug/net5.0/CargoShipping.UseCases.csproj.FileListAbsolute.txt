@@ -1,0 +1,15 @@
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\bin\Debug\net5.0\CargoShipping.UseCases.deps.json
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\bin\Debug\net5.0\CargoShipping.UseCases.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\bin\Debug\net5.0\ref\CargoShipping.UseCases.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\bin\Debug\net5.0\CargoShipping.UseCases.pdb
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\bin\Debug\net5.0\CargoShipping.CoreBusiness.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\bin\Debug\net5.0\CargoShipping.CoreBusiness.pdb
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\obj\Debug\net5.0\CargoShipping.UseCases.csprojAssemblyReference.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\obj\Debug\net5.0\CargoShipping.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\obj\Debug\net5.0\CargoShipping.UseCases.AssemblyInfoInputs.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\obj\Debug\net5.0\CargoShipping.UseCases.AssemblyInfo.cs
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\obj\Debug\net5.0\CargoShipping.UseCases.csproj.CoreCompileInputs.cache
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\obj\Debug\net5.0\CargoShipping.UseCases.csproj.CopyComplete
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\obj\Debug\net5.0\CargoShipping.UseCases.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\obj\Debug\net5.0\ref\CargoShipping.UseCases.dll
+C:\Projects\1-Mine\3-Learning_Teaching\Software Architecture\Code\3. CargoShipping-Onion\CargoShipping.UseCases\obj\Debug\net5.0\CargoShipping.UseCases.pdb
